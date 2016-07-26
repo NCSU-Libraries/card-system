@@ -17,7 +17,7 @@ Users sign into the space by swiping their campus ID card on the entry card read
 Raspberry Pi 2 Model B | 1 | https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
 PiTFT Plus 3.5" 480x320 | 1 | https://www.adafruit.com/products/2441
 Assorted Terminal Blocks | - | https://www.adafruit.com/products/2234
-ID Tech MiniMag II IDMB-354133B | 2 | http://idtechproducts.com/products/swipe-reader-writers/minimag-ii-compact-intelligent-magstripe-reader
+ID TECH MiniMag Duo IDMB-354133B | 2 | http://idtechproducts.com/products/swipe-reader-writers/minimag-ii-compact-intelligent-magstripe-reader
 Panel Monunt USB Port | 3 | https://www.adafruit.com/product/908
 Panel Mount Ethernet Port | 1 | https://www.adafruit.com/products/909
 Panel Mount 2.1mm Barrel Jack | 1 | https://www.adafruit.com/products/610
