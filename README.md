@@ -42,8 +42,11 @@ Aaron Arthur, adarthur@ncsu.edu
 
 ## Project Collaborators
 Bret Davidson  (author of Space Auth API)
+
 Adam Rogers (project requirements + management)
+
 Jack Twiddy (PCB and enclosure fabrication)
+
 Augustus Vieweg (code contribution)
 
 ## LICENSE
