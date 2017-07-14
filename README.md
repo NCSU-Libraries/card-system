@@ -1,9 +1,9 @@
-#Card System
+# Card System
 Regulates access to DH Hill Library Makerspace, restricted to NC State University students, faculty and staff with campus ID cards. 
 
 This repository includes Python code running on the system as well as electrical and mechanical design files.
 
-##System Overview
+## System Overview
 ![System block diagram]
 (/system-block-diagram.png)
 
@@ -11,7 +11,7 @@ The system comprises a Raspberry Pi with touchscreen, magnetic stripe card reade
 
 Users sign into the space by swiping their campus ID card on the entry card reader. The system accesses a database of users with the SpaceAuth API to check for the user's access privileges. If the user has access, they are greeted with a green light and an "access granted" from the speaker; otherwise, a red light and "access denied". The system also has a motion sensor (PIR) which, when triggered, triggers the system to deny access.
 
-##Bill of Materials
+## Bill of Materials
 | Item  | Quantity  | Link  |
 | ----- | --------- | ----- |
 Raspberry Pi 2 Model B | 1 | https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
@@ -37,15 +37,14 @@ Female Machine Pin Headers | 1 | https://www.sparkfun.com/products/743
 2x6 Shrouded Header | 1 | https://www.sparkfun.com/products/10877
 
 
-##Author
+## Author
 Aaron Arthur, adarthur@ncsu.edu
 
-##Project Collaborators
+## Project Collaborators
 Bret Davidson  (author of Space Auth API)
-
+Adam Rogers (project requirements + management)
+Jack Twiddy (PCB and enclosure fabrication)
 Augustus Vieweg (code contribution)
 
-Jack Twiddy (PCB and enclosure fabrication)
-
-##LICENSE
+## LICENSE
 MIT License
