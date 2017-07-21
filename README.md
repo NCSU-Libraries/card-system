@@ -4,8 +4,7 @@ Regulates access to DH Hill Library Makerspace, restricted to NC State Universit
 This repository includes Python code running on the system as well as electrical and mechanical design files.
 
 ## System Overview
-![System block diagram]
-(/system-block-diagram.png)
+![System block diagram](system-block-diagram.png)
 
 The system comprises a Raspberry Pi with touchscreen, magnetic stripe card readers, a laser-cut enclosure produced in-house, a circuit board produced in-house, and associated electronics. It interacts with a web API (also produced in the Library) to authenticate users. The Pi runs a modified version of Raspbian Linux provided by Adafruit for use with their PiTFT touchscreens.
 
